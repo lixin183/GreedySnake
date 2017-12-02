@@ -1,7 +1,6 @@
 #cs ----------------------------------------------------------------------------
 
 	AutoIt Version: 3.3.2.0
-	Author:raoyi
 
 	Script Function:
 	Game of Greedy Snake
